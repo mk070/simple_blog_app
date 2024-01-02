@@ -2,7 +2,6 @@
 
 With CURD operations
 
-## live Demo : 
 
 
 ## Available Scripts
